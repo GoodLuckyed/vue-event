@@ -1,17 +1,8 @@
 <template>
-  <div>
-
-  </div>
+  <router-view></router-view>
 </template>
 
 <script>
-import { registerAPI } from '@/api/index'
-export default {
-  async created () {
-    const res = await registerAPI()
-    console.log(res)
-  }
-}
 
 </script>
 
