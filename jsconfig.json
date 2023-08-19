@@ -13,8 +13,7 @@
       "esnext",
       "dom",
       "dom.iterable",
-      "scripthost",
-      "wanjie"
+      "scripthost"
     ]
   }
 }

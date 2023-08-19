@@ -3,7 +3,7 @@ node_modules
 /dist
 /README.md
 
-/完结
+
 # local env files
 .env.local
 .env.*.local
