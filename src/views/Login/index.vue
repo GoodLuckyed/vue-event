@@ -64,10 +64,10 @@ export default {
         if (res.code !== 0) return this.$message.error(res.message)
         // 登录成功
         this.$message.success(res.message)
-        // 跳转到后台主页
-        this.$router.push('/')
         // 将登录成功后的token保存到vuex中
         this.updateToken(res.token)
+        // 跳转到后台主页
+        this.$router.push('/')
       })
     }
   }
