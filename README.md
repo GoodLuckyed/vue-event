@@ -19,5 +19,10 @@ npm run start
 5. vuex
 6. vue-cli
 # 项目预览
-
 ![屏幕截图 2023-08-20 160334](https://github.com/GoodLuckyed/vue-event/assets/114331338/90302d3b-d78c-4f6e-bae0-c646e3f034c1)
+![Uploading 屏幕截图 2023-08-20 160759.png…]()
+![Uploading 屏幕截图 2023-08-20 160702.png…]()
+![屏幕截图 2023-08-20 161222](https://github.com/GoodLuckyed/vue-event/assets/114331338/b7d3baa9-bef2-4866-a106-ec06d1cf3937)
+![屏幕截图 2023-08-20 161157](https://github.com/GoodLuckyed/vue-event/assets/114331338/b871e8b2-592c-4e17-9154-77c1f94a8e83)
+![Uploading 屏幕截图 2023-08-20 161128.png…]()
+![Uploading 屏幕截图 2023-08-20 161028.png…]()
