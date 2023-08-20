@@ -20,6 +20,15 @@ npm run start
 6. vue-cli
 # 项目预览
 ![image](https://github.com/GoodLuckyed/vue-event/blob/master/public/img-folder/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-20%20163530.png)
+![image](https://github.com/GoodLuckyed/vue-event/blob/master/public/img-folder/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-20%20160702.png)
+![image](https://github.com/GoodLuckyed/vue-event/blob/master/public/img-folder/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-20%20160759.png)
+![image](https://github.com/GoodLuckyed/vue-event/blob/master/public/img-folder/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-20%20161028.png)
+![image](https://github.com/GoodLuckyed/vue-event/blob/master/public/img-folder/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-20%20161128.png)
+![image](https://github.com/GoodLuckyed/vue-event/blob/master/public/img-folder/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-20%20161157.png)
+![image](https://github.com/GoodLuckyed/vue-event/blob/master/public/img-folder/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-20%20161222.png)
+
+
+
 
 
 
