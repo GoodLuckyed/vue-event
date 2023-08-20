@@ -4,8 +4,10 @@
 ```
 # 克隆到本地
 git clone https://github.com/GoodLuckyed/vue-event.git
+
 # 安装依赖
 npm install 或 yarn(推荐)
+
 # 项目启动
 npm run start
 ```
@@ -17,3 +19,5 @@ npm run start
 5. vuex
 6. vue-cli
 # 项目预览
+
+![屏幕截图 2023-08-20 160334](https://github.com/GoodLuckyed/vue-event/assets/114331338/90302d3b-d78c-4f6e-bae0-c646e3f034c1)
